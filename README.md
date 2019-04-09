@@ -18,4 +18,4 @@ developing simulation files for the entity. Implementation of the
 functionality described for each entity. To make the simulation results
 more readable, we will use a 32-bit data-path (both addr and data buses).
     
-Languages used: VHDL
+Languages used: VHDL, Stata
